@@ -1,0 +1,26 @@
+.pokemon-input {
+   height: 35px;
+   width: 250px;
+   font-size: 16px;
+   font-weight: bold;
+   color: #000;
+   text-align: center;
+}
+
+.pokemon-button {
+   border: 2px solid #065A9C;
+   border-radius: 6px;
+   color: #000;
+   cursor: pointer;
+   font-size: 16px;
+   margin-left: 10px;
+   padding: 7.5px 10px;
+}
+
+.pokemon-button:hover {
+   background-color: #F5E97E;
+}
+
+.pokemon-button:focus {
+   background-color: #F5E97E;
+}

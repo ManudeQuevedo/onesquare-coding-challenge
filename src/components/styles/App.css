@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f9fcfb;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+.App {
+  align-items: center;
+}
+
+.main-container {
+  align-items: center;
+  margin: 0;
+  text-align: center;
+}
+
+.logo {
+  height: 350px;
+  margin: 20px 0 40px 0;
+}
+
+.text {
+  color: #000;
+  font-size: 17px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
