@@ -9,3 +9,5 @@ Para ejecutar este projecto sigue estas sencillas instrucciones
 1. Clona este repo.
 2. Una vez instalado, corre el comando Yarn en tu consola o terminal para poder instalar las dependencias ocupadas en este proyecto.
 3. Una vez completado el paso anterior, simplemente corre Yarn start para visualizar el proyecto.
+
+Si quieres ver este sitio deployado en [Zeit.co](https://www.zeit.co) da click [aquí](https://onesquare-coding-challenge.now.sh/).
